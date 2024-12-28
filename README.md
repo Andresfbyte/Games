@@ -1,2 +1,2 @@
 # Games
-Analysis and prediction of video game success using global sales data
+Using statistics on worldwide sales, video game success is analyzed and predicted. In order to find patterns and trends, this research uses exploratory data analysis, hypothesis testing, and visualizations to examine sales behavior in three distinct markets: Japan, North America, and Europe. I tested hypotheses about user ratings and preferences for platforms and genres using statistical tests, correlation analysis, and data imputation techniques. Developing models to forecast video game performance based on sales and review data is another aspect of the project.
